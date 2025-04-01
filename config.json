@@ -4,10 +4,9 @@
   "title": "You are here.",
   "sort-albums-by": "title",
   "sort-media-by": "filename",
-  "download-photos": "false",
   "cleanup": true,
   "theme": "flow",
   "css": "./custom.css",
   "footer": "2025 &copy; Wallace Heller",
-  "usage-stats": true
+  "usage-stats": false
 }
