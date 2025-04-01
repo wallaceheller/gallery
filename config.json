@@ -9,5 +9,5 @@
   "theme": "flow",
   "css": "./custom.css",
   "footer": "2025 &copy; Wallace Heller",
-  "usage-stats": false
+  "usage-stats": true
 }
